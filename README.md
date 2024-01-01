@@ -1,4 +1,4 @@
-# Palestinian Movies
+# Palestinian Movies JSON Dataset
 
 This dataset was scrapped from my list on Internet Movies Database List about Palestinian Movies. 
 
