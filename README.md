@@ -1,4 +1,5 @@
 # Palestinian Movies JSON Dataset
+ ![Free Palestine](https://img.shields.io/badge/FreePalestine-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 
 This dataset was scrapped from my list on Internet Movies Database List about Palestinian Movies. 
 
