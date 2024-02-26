@@ -639,5 +639,646 @@
       "id": "en-US"
     }
   }
-}]
+},
+{
+  "titleText": {
+    "text": "Al-Nakba"
+  },
+  "id": "tt3850118",
+  "primaryImage": {
+    "id": "rm261240833",
+    "width": 1114,
+    "height": 1486,
+    "url": "https://m.media-amazon.com/images/M/MV5BMDM4YWE0NDgtZmNjNC00MzRiLWFmOWMtZWFmY2Y3ZTBkMTA1XkEyXkFqcGdeQXVyMTUyMjEyMjMx._V1_.jpg",
+    "caption": {
+      "plainText": "Al-Nakba (2008)"
+    }
+  },
+  "releaseDate": {
+    "day": null,
+    "month": null,
+    "year": 2008,
+    "country": {
+      "id": "QA",
+      "text": "Qatar"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "The ethnic cleansing that occurred during the creation of the State of Israel is known to Palestinians as Nakba, which means \"catastrophe.\""
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "1948 Palestinian Exodus"
+  },
+  "id": "tt0163518",
+  "primaryImage": {
+    "id": "rm2382833664",
+    "width": 229,
+    "height": 316,
+    "url": "https://m.media-amazon.com/images/M/MV5BYjJiZWM1MGMtNzkyZS00ZGU4LWE1NDctMzI0YWQ3MDVkN2UwXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg",
+    "caption": {
+      "plainText": "1948 Palestinian Exodus (1997)"
+    }
+  },
+  "releaseDate": {
+    "day": null,
+    "month": null,
+    "year": 1997,
+    "country": {
+      "id": "IL",
+      "text": "Israel"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "The film presents eyewitness accounts of Palestinian refugees and Zionist soldiers to tell the story of the displacement of 750,000 Palestinians as a part of the creation of the state of Israel."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "The Sons of Eilaboun"
+  },
+  "id": "tt1249418",
+  "primaryImage": {
+    "id": "rm1201834496",
+    "width": 300,
+    "height": 427,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTYxNjU2MzQ4Ml5BMl5BanBnXkFtZTcwMjM2NTkxMg@@._V1_.jpg",
+    "caption": {
+      "plainText": "DVD cover of The sons of Eilaboun - Short version"
+    }
+  },
+  "releaseDate": {
+    "day": 28,
+    "month": 9,
+    "year": 2007,
+    "country": {
+      "id": "IL",
+      "text": "Israel"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "A documentary film that tells the story of the human toll that Plan Dalet claimed on a small Palestinian village in the 1948 war. The story of the massacre, expulsion and return of Eilaboun."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Stealing a Nation"
+  },
+  "id": "tt0803890",
+  "primaryImage": {
+    "id": "rm3879343872",
+    "width": 447,
+    "height": 640,
+    "url": "https://m.media-amazon.com/images/M/MV5BMDk1YTcwMTUtMDMyYi00ZDFmLTkyMzMtZTY0YzQ2NTk2OWY1XkEyXkFqcGdeQXVyMTgwOTE5NDk@._V1_.jpg",
+    "caption": {
+      "plainText": "Stealing a Nation (2004)"
+    }
+  },
+  "releaseDate": {
+    "day": 31,
+    "month": 7,
+    "year": 2004,
+    "country": {
+      "id": "GB",
+      "text": "United Kingdom"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "This tells a story literally 'hidden from history'. In the 1960s and 70s, British governments, conspiring with American officials, tricked into leaving, then expelled the entire population of the Chagos islands in the Indian Ocean. The aim was to give the principal island of this Crown Colony, Diego Garcia, to the Americans who wanted it as a major military base. Indeed, from Diego Garcia US planes have since bombed Afghanistan and Iraq. The story is told by islanders who were dumped in the slums of Mauritius and in the words of the British officials who left a 'paper trail' of what the International Criminal Court now describes as 'a crime against humanity' ."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "With God on our Side"
+  },
+  "id": "tt1766204",
+  "primaryImage": {
+    "id": "rm425839360",
+    "width": 375,
+    "height": 500,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MzEyMzMzMV5BMl5BanBnXkFtZTgwMjkxMzU0MTE@._V1_.jpg",
+    "caption": {
+      "plainText": "With God on our Side (2010)"
+    }
+  },
+  "releaseDate": {
+    "day": 8,
+    "month": 4,
+    "year": 2010,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "The minute ur pastor justifies apartheid, violence n invasion by wrongly quoting a holy book and causes u to become prejudiced against other people or group, u lose the heart of God."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Tears of Gaza"
+  },
+  "id": "tt1699705",
+  "primaryImage": {
+    "id": "rm1780282624",
+    "width": 375,
+    "height": 500,
+    "url": "https://m.media-amazon.com/images/M/MV5BMjI1NjY1MTY2Nl5BMl5BanBnXkFtZTgwNDI1NDk5NTE@._V1_.jpg",
+    "caption": {
+      "plainText": "Tears of Gaza (2010)"
+    }
+  },
+  "releaseDate": {
+    "day": 21,
+    "month": 12,
+    "year": 2012,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "In a rough style, by way of unique footage, the brutal consequences of modern wars are exposed. The film also depicts the ability of women and children to handle their everyday life after a dramatic war experience. Many of them live in tents or in ruins without walls or roofs. They are all in need of money, food, water and electricity. Others have lost family members, or are left with seriously injured children. Can war solve conflicts or create peace? The film follows three children through the war and the period after the ceasefire."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Occupation 101"
+  },
+  "id": "tt0807956",
+  "primaryImage": {
+    "id": "rm3486488320",
+    "width": 548,
+    "height": 780,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTA4MDg3NzAyNTNeQTJeQWpwZ15BbWU3MDA0OTUxNzE@._V1_.jpg",
+    "caption": {
+      "plainText": "Occupation 101 (2006)"
+    }
+  },
+  "releaseDate": {
+    "day": 15,
+    "month": 5,
+    "year": 2007,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "A thought-provoking and powerful documentary film on the current and historical root causes of the Israeli-Palestinian conflict and U.S. political involvement."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Life in Occupied Palestine: Eyewitness Stories & Photos"
+  },
+  "id": "tt16749956",
+  "primaryImage": {
+    "id": "rm2157044225",
+    "width": 650,
+    "height": 910,
+    "url": "https://m.media-amazon.com/images/M/MV5BNWQyZjgyZjktNDE2ZS00MDBkLWFjNzctZjllNzA0NWRjZmJkXkEyXkFqcGdeQXVyNzQ3MDc3ODI@._V1_.jpg",
+    "caption": {
+      "plainText": "Life in Occupied Palestine: Eyewitness Stories & Photos (1997)"
+    }
+  },
+  "releaseDate": {
+    "day": null,
+    "month": null,
+    "year": 1997,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "Anna Baltzer, the Jewish-American granddaughter of Holocaust refugees, provides a straightforward account of the Israeli-Palestinian conflict, while chronicling the almost unbearable living conditions of Palestinians under the Occupation."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Gaza Fights for Freedom"
+  },
+  "id": "tt10825504",
+  "primaryImage": {
+    "id": "rm139035905",
+    "width": 544,
+    "height": 819,
+    "url": "https://m.media-amazon.com/images/M/MV5BYmY3MThjY2ItZTU4NS00YzhkLTg5MGQtZDRmNTY5ODBlM2I2XkEyXkFqcGdeQXVyMjc0NjQ4MjM@._V1_.jpg",
+    "caption": {
+      "plainText": "Gaza Fights for Freedom (2019)"
+    }
+  },
+  "releaseDate": {
+    "day": 20,
+    "month": 6,
+    "year": 2019,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "Filmed during the height of the Great March Of Return protests, it features exclusive footage of demonstrations where 200 unarmed civilians have been killed by Israeli snipers since March 30, 2018."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Killing Gaza"
+  },
+  "id": "tt8438864",
+  "primaryImage": {
+    "id": "rm1822737921",
+    "width": 707,
+    "height": 1000,
+    "url": "https://m.media-amazon.com/images/M/MV5BNzQzMjMxOTAtNmQyZi00OTE3LWJkNWEtNDk0ZGFkNzVhZGMyXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_.jpg",
+    "caption": {
+      "plainText": "Killing Gaza (2018)"
+    }
+  },
+  "releaseDate": {
+    "day": 13,
+    "month": 5,
+    "year": 2018,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "In Killing Gaza, independent journalists Max Blumenthal and Dan Cohen documented Israel's 2014 war on Gaza. Yet this film is much more than a documentary about Palestinian resilience and suffering. It is a chilling visual document of war crimes committed by the Israeli military, featuring direct testimony and evidence from the survivors."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "The Oslo Diaries"
+  },
+  "id": "tt7689940",
+  "primaryImage": {
+    "id": "rm724587264",
+    "width": 1012,
+    "height": 1500,
+    "url": "https://m.media-amazon.com/images/M/MV5BMThjYTFiMTItYWE3Mi00YzdiLTg2ZTEtYzZiZDU4OWQ4MDA1XkEyXkFqcGdeQXVyNjUxMzkzOA@@._V1_.jpg",
+    "caption": {
+      "plainText": "The Oslo Diaries (2018)"
+    }
+  },
+  "releaseDate": {
+    "day": null,
+    "month": 1,
+    "year": 2018,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "A group of Israelis and Palestinians come together in Oslo for an unsanctioned peace talks during the 1990s in order to bring peace to the Middle East."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Born in Gaza"
+  },
+  "id": "tt4205416",
+  "primaryImage": {
+    "id": "rm2398001665",
+    "width": 426,
+    "height": 597,
+    "url": "https://m.media-amazon.com/images/M/MV5BYzdiYzk5ZTItODQ2NS00ZTU3LWI1YzctNmMzYjEwYTg4YTc2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "caption": {
+      "plainText": "Born in Gaza (2014)"
+    }
+  },
+  "releaseDate": {
+    "day": 16,
+    "month": 5,
+    "year": 2019,
+    "country": {
+      "id": "AE",
+      "text": "United Arab Emirates"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "Filmed shortly after the 2014 Gaza war, this documentary examines how violence has transformed the lives of 10 Palestinian children."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Eyes of a Thief"
+  },
+  "id": "tt2993406",
+  "primaryImage": {
+    "id": "rm22085376",
+    "width": 814,
+    "height": 1137,
+    "url": "https://m.media-amazon.com/images/M/MV5BNDIwODE3MjcwOV5BMl5BanBnXkFtZTgwNTYxMjU5MzE@._V1_.jpg",
+    "caption": {
+      "plainText": "Eyes of a Thief (2014)"
+    }
+  },
+  "releaseDate": {
+    "day": 1,
+    "month": 10,
+    "year": 2014,
+    "country": {
+      "id": "PS",
+      "text": "Occupied Palestinian Territory"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "A father with a dangerous secret searches for his daughter."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Ghost Hunting"
+  },
+  "id": "tt6568868",
+  "primaryImage": {
+    "id": "rm2696885760",
+    "width": 800,
+    "height": 800,
+    "url": "https://m.media-amazon.com/images/M/MV5BYmEzM2ViNTgtNjZjMy00MWJmLWI1NjUtYjg1YmZjOWZmZDM5XkEyXkFqcGdeQXVyMzM0NDA5Mzk@._V1_.jpg",
+    "caption": {
+      "plainText": "Ramzi Maqdisi in Ghost Hunting (2017)"
+    }
+  },
+  "releaseDate": {
+    "day": 13,
+    "month": 10,
+    "year": 2021,
+    "country": {
+      "id": "PH",
+      "text": "Philippines"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "Some Palestinians who were held in an Israeli detention center are assembled to re-enact their experience in an effort to heal."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Hikayatul jawahiri thalath"
+  },
+  "id": "tt0111354",
+  "primaryImage": {
+    "id": "rm4037123328",
+    "width": 284,
+    "height": 475,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTk5MTk2Njk5NF5BMl5BanBnXkFtZTcwODk4OTUyMQ@@._V1_.jpg",
+    "caption": {
+      "plainText": "Hikayatul jawahiri thalath (1995)"
+    }
+  },
+  "releaseDate": {
+    "day": 6,
+    "month": 12,
+    "year": 1995,
+    "country": {
+      "id": "FR",
+      "text": "France"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "A Palestinian boy becomes entranced with a beautiful Gypsy girl and a fairy tale world she weaves amidst conflict in Gaza. The children explore nature, mysticism and what their future holds, while learning to live with the surrounding brutality c. 1990. Yusef's family scrapes by in a seaside camp while his father's in prison and his heavily-armed brother's on the run, parrying with Israeli troops. Salah, Yusef's schoolmate from a well-off Arab family strives faithfully to assist them, while Yusef helps an elderly, blind neighbor escape from his lonely abandonment into the North American dreamworld he's waited so long for."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Promises"
+  },
+  "id": "tt0282864",
+  "primaryImage": {
+    "id": "rm2189663488",
+    "width": 352,
+    "height": 500,
+    "url": "https://m.media-amazon.com/images/M/MV5BMTM4ODI4MjAzM15BMl5BanBnXkFtZTcwMzQ2MjcyMQ@@._V1_.jpg",
+    "caption": {
+      "plainText": "Promises (2001)"
+    }
+  },
+  "releaseDate": {
+    "day": 20,
+    "month": 12,
+    "year": 2001,
+    "country": {
+      "id": "NL",
+      "text": "Netherlands"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "Several Jewish and Palestinian children are followed for three years and put in touch with each other, in this alternative look at the Jewish-Palestinian conflict. The three filmmakers followed a group of seven local children between 1995 and 1998. They all have a totally different background. These seven children tell their own story about growing up in Jerusalem. Through this portrait of their generation, we see how deep rooted and almost insoluble the problems of the Middle East have become. When the protagonists speak out in an epilogue a couple of years later, it becomes apparent that all have lost their childlike innocence."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Gaza mon amour"
+  },
+  "id": "tt11692148",
+  "primaryImage": {
+    "id": "rm2123225857",
+    "width": 1080,
+    "height": 1617,
+    "url": "https://m.media-amazon.com/images/M/MV5BOGViNDMyZDYtMWFkNS00YmE4LThkZjYtMTg3ZTA0ZTE3ZWNlXkEyXkFqcGdeQXVyNTM2NTg3Nzg@._V1_.jpg",
+    "caption": {
+      "plainText": "Gaza mon amour (2020)"
+    }
+  },
+  "releaseDate": {
+    "day": 5,
+    "month": 11,
+    "year": 2021,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "Gaza, today. Sixty-year-old fisherman Issa is secretly in love with Siham, a woman who works at the market with her daughter Leila. When he discovers an ancient phallic statue of Apollo in his fishing nets, Issa hides it, not knowing what to do with this mysterious and potent treasure. Yet deep inside, he feels that this discovery will change his life forever. Strangely, his confidence starts to grow and eventually he decides to approach Siham."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "Ambulance"
+  },
+  "id": "tt6141880",
+  "primaryImage": {
+    "id": "rm448135936",
+    "width": 1786,
+    "height": 2500,
+    "url": "https://m.media-amazon.com/images/M/MV5BOTI1Mzg1NjgtNWUwZC00MGY5LWIxZWEtNmFiYjI0ODhmOTdkXkEyXkFqcGdeQXVyNTgzNjU1MzU@._V1_.jpg",
+    "caption": {
+      "plainText": "Ambulance (2016)"
+    }
+  },
+  "releaseDate": {
+    "day": 7,
+    "month": 6,
+    "year": 2017,
+    "country": {
+      "id": "US",
+      "text": "United States"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "During the summer of 2014, Mohamed Jabaly joins an ambulance crew attempting to save those injured during the war in Gaza."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "To See If I'm Smiling"
+  },
+  "id": "tt1112866",
+  "primaryImage": {
+    "id": "rm3591978752",
+    "width": 245,
+    "height": 373,
+    "url": "https://m.media-amazon.com/images/M/MV5BNTkxMTdiYzktNWZlNy00MDVjLWIwMDQtYWVmNjA1YjlmMmU5L2ltYWdlXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg",
+    "caption": {
+      "plainText": "To See If I'm Smiling (2007)"
+    }
+  },
+  "releaseDate": {
+    "day": null,
+    "month": null,
+    "year": 2007,
+    "country": {
+      "id": "IL",
+      "text": "Israel"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "Six Israeli soldiers recount their military service in Gaza and the West Bank, revealing incidents of negligence, casualness, immaturity and abuse of power while on duty in occupied territories."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+},
+{
+  "titleText": {
+    "text": "The Settlers"
+  },
+  "id": "tt5278914",
+  "primaryImage": {
+    "id": "rm556085760",
+    "width": 2013,
+    "height": 2948,
+    "url": "https://m.media-amazon.com/images/M/MV5BYTRiOTEzYTAtODViYy00MjA3LTk5NTctNDMxMmNlNWY0YmEwXkEyXkFqcGdeQXVyMzQyNTEyNjk@._V1_.jpg",
+    "caption": {
+      "plainText": "The Settlers (2016)"
+    }
+  },
+  "releaseDate": {
+    "day": 16,
+    "month": 6,
+    "year": 2016,
+    "country": {
+      "id": "IL",
+      "text": "Israel"
+    }
+  },
+  "plot": {
+    "plotText": {
+      "plainText": "An intimate look at life inside the Jewish settlements in the West Bank."
+    },
+    "language": {
+      "id": "en-US"
+    }
+  }
+}
+]
 }
